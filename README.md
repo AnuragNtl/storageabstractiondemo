@@ -19,7 +19,7 @@ Java Library to abstract the underlying storage,retrieval and manipulation of fi
     mysqlstorage.jar : Store in MYSQL databases
     </li>
     <li>
-      <a href="doc/index.html">Read documentation</a> for implementing your own. 
+      <a href="https://anuragntl.github.io/storageabstractiondemo/">Read documentation</a> for implementing your own. 
     </li>
     </ul>
   </li>
